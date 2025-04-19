@@ -7,4 +7,4 @@ The data preparation process involved merging 15 samples from various Medicare f
 
 ## Exploratory Data Analysis (EDA)
 EDA revealed that median LOS remained stable at around five days across years, with outliers indicating some prolonged stays. Most first diagnoses fell under the “Other” category, though heart disease subtypes were consistently present. Females and older adults (65–85) were more affected by chronic diseases. Drug utilization and financial burdens varied by disease type, with Heart Failure and COPD showing higher prescription and payment levels. Physician involvement also appeared to influence LOS, and cost distributions remained steady but showed disease-specific variations.
-![Drug Description]{https://github.com/wannidasmile/Length-of-Stay-Prediction-for-Heart-Disease-Patients/blob/main/BP_DrugPrescript.png)
+![Drug Description](https://github.com/wannidasmile/Length-of-Stay-Prediction-for-Heart-Disease-Patients/blob/main/BP_DrugPrescript.png)
